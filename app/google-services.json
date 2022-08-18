@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "59295226857",
+    "project_id": "ocrapp-7e51d",
+    "storage_bucket": "ocrapp-7e51d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59295226857:android:3b92945327929f83a50978",
+        "android_client_info": {
+          "package_name": "com.example.calendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59295226857-q545hv8pr8fs9u07uqlne2qb0r8tdm06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMXDu-Dv70O5VRhpm5o6Fk56zs3iXrcrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59295226857-q545hv8pr8fs9u07uqlne2qb0r8tdm06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59295226857:android:6b6afab54f2e7db6a50978",
+        "android_client_info": {
+          "package_name": "com.example.ocrapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59295226857-q545hv8pr8fs9u07uqlne2qb0r8tdm06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMXDu-Dv70O5VRhpm5o6Fk56zs3iXrcrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59295226857-q545hv8pr8fs9u07uqlne2qb0r8tdm06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
